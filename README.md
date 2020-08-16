@@ -1,6 +1,6 @@
-<h2> Hi, I'm Esteban Fuster Pozzi <img src="https://secure.gravatar.com/avatar/da3a784db378c092132d2452564b4842" width="40"></h2>
+<h2> Hi, I'm Esteban Fuster Pozzi <img src="https://avatars0.githubusercontent.com/u/5848848?s=460&u=c20aaa863a51e300e5c120389e113b5862793ecc&v=4" width="40"></h2>
 
-<img align='right' src="https://secure.gravatar.com/avatar/da3a784db378c092132d2452564b4842" width="230">
+<img align='right' src="https://avatars0.githubusercontent.com/u/5848848?s=460&u=c20aaa863a51e300e5c120389e113b5862793ecc&v=4" width="230">
 
 <p><em>Full-Stack Developer</br>
 I + D at <a href="https://desarrolloactivo.com/">desarrolloactivo.com</a>
