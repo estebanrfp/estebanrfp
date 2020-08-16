@@ -29,7 +29,7 @@ const estebanrfp = {
      @estebanrfp lbry: "https://lbry.tv/@estebanrfp:e"
      @ovgrid lbry: "https://lbry.tv/@ovgrid:d"
   ],
-  challenge: "I am doing Ovgrid [Open Virtual Grid], where I working on real-time shared xr experiences."
+  challenge: "I am doing Ovgrid [Open Virtual Grid], working on real-time shared xr experiences using gundb - a distributed database."
 }
 ```
 
