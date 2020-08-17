@@ -12,22 +12,32 @@
 
 ```javascript
 const estebanrfp = {
-  code: ["Javascript", "Typescript", "HTML", "CSS"],
-  tools: ["GunDB", "JamStack", "Webpack"],
-  architecture: ["Design System Pattern"],
-  preprocessor: ["SASS", "STYLUS"],
+  AboutMe: 'Full Stack Developer - dWEB R&D',
+  code: ['Javascript', 'Typescript', 'HTML', 'CSS'],
+  tools: ['GunDB', 'Webpack', 'GraphQL'],
+  architecture: ['JamStack', 'PWA'],
+  preprocessor: ['SASS', 'STYLUS'],
   Communities: {
-     personal: "https://desarrolloactivo.com",
-     gun-discord: "https://discord.com/channels/612645357850984470/612645357850984473",
-     gist: "https://gist.github.com/estebanrfp",
-     platzi: "https://platzi.com/@estebanrfp/"
+    desarrolloactivo: 'https://desarrolloactivo.com',
+    gun: 'https://discord.com/channels/612645357850984470/612645357850984473',
+    gist: 'https://gist.github.com/estebanrfp',
+    platzi: 'https://platzi.com/@estebanrfp/'
   },
-  social: [ 
-     @desarrolloactivo lbry: "https://lbry.tv/@desarrolloactivo:2", 
-     @estebanrfp lbry: "https://lbry.tv/@estebanrfp:e",
-     @ovgrid lbry: "https://lbry.tv/@ovgrid:d"
-  ],
-  challenge: "I am doing Ovgrid [Open Virtual Grid], working on real-time shared xr experiences using gundb - a distributed database."
+  social: {
+    github: 'https://github.com/estebanrfp',
+    linkedin: 'https://es.linkedin.com/in/estebanrfp',
+    twitter: 'https://twitter.com/estebanrfp',
+    facebook: 'https://www.facebook.com/ovgrid/',
+    discord: 'https://discord.com/channels/665490996003340320/665490996003340329',
+    tetha: 'https://www.theta.tv/estebanrfp',
+    lbry: {
+      desarrolloactivo: 'https://lbry.tv/@desarrolloactivo:2',
+      estebanrfp: 'https://lbry.tv/@estebanrfp:e',
+      ovgrid: 'https://lbry.tv/@ovgrid:d'
+    },
+    codepen: 'https://codepen.io/estebanrfp'
+  },
+  challenge: 'I am doing Ovgrid [Open Virtual Grid], working on real-time shared xr experiences using gundb - a distributed database.'
 }
 ```
 
