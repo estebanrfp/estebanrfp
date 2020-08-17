@@ -15,7 +15,7 @@ I + D at <a href="https://desarrolloactivo.com/">desarrolloactivo.com</a>
 ```javascript
 const estebanrfp = {
   code: ["Javascript", "Typescript", "HTML", "CSS"],
-  tools: ["GunDB", "JamStack"],
+  tools: ["GunDB", "JamStack", "Webpack"],
   architecture: ["Design System Pattern"],
   preprocessor: ["SASS", "STYLUS"],
   Communities: {
