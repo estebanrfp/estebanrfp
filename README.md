@@ -41,6 +41,8 @@ const estebanrfp = {
 }
 ```
 
+![estebanrfp github stats](https://github-readme-stats.vercel.app/api?username=estebanrfp&hide=contribs,prs)
+
 ## 📫 Contact Me
 - Twitter - [@estebanrfp](https://twitter.com/estebanrfp)
 - LinkedIn - [Esteban Fuster Pozzi](https://www.linkedin.com/in/estebanrfp/)
