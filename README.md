@@ -14,7 +14,7 @@
 const estebanrfp = {
   AboutMe: 'Full Stack Developer - dWEB R&D',
   code: ['Javascript', 'Typescript', 'HTML', 'CSS'],
-  tools: ['GunDB', 'Webpack', 'snowpack', 'esbuild', 'GraphQL', 'Jest'],
+  tools: ['GunDB', 'Vite', 'snowpack', 'esbuild', 'GraphQL', 'Jest'],
   architecture: ['JamStack', 'PWA'],
   preprocessor: ['SASS', 'STYLUS'],
   Communities: {
