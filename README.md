@@ -18,7 +18,7 @@ const estebanrfp = {
   trends: ['server-less', 'cryptographic solutions', 'distributed systems'],
   Communities: {
     desarrolloactivo: 'https://desarrolloactivo.com',
-    gun: ['https://discord.com/channels/612645357850984470/612645357850984473'](https://app.gitter.im/#/room/#amark_gun:gitter.im),
+    gun: 'https://app.gitter.im/#/room/#amark_gun:gitter.im',
     gist: 'https://gist.github.com/estebanrfp',
     platzi: 'https://platzi.com/@estebanrfp/'
   },
@@ -27,6 +27,7 @@ const estebanrfp = {
     linkedin: 'https://es.linkedin.com/in/estebanrfp',
     twitter: 'https://twitter.com/estebanrfp',
     facebook: 'https://www.facebook.com/ovgrid/',
+    telegram: 'https://telegram.me/estebanrfp'
     discord: 'https://discord.com/channels/665490996003340320/665490996003340329',
     tetha: 'https://www.theta.tv/estebanrfp',
     lbry: {
