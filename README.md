@@ -15,10 +15,10 @@ const estebanrfp = {
   AboutMe: 'Full Stack Developer - dWEB R&D',
   code: ['Javascript', 'Typescript', 'HTML', 'CSS'],
   tools: ['GunDB', 'Vite', 'snowpack', 'esbuild', 'GraphQL', 'Jest'],
-  technologies: ['server-less', 'cryptographic solutions'],
+  trends: ['server-less', 'cryptographic solutions', 'distributed systems'],
   Communities: {
     desarrolloactivo: 'https://desarrolloactivo.com',
-    gun: 'https://discord.com/channels/612645357850984470/612645357850984473',
+    gun: ['https://discord.com/channels/612645357850984470/612645357850984473'](https://app.gitter.im/#/room/#amark_gun:gitter.im),
     gist: 'https://gist.github.com/estebanrfp',
     platzi: 'https://platzi.com/@estebanrfp/'
   },
