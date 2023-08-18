@@ -17,7 +17,7 @@ const estebanrfp = {
   tools: ['GunDB', 'Vite', 'snowpack', 'esbuild', 'GraphQL', 'Jest'],
   trends: ['server-less', 'cryptographic solutions', 'distributed systems'],
   Communities: {
-    desarrolloactivo: 'https://desarrolloactivo.com',
+    estebanrfp.com: 'https://estebanrfp.com',
     gun: 'https://app.gitter.im/#/room/#amark_gun:gitter.im',
     gist: 'https://gist.github.com/estebanrfp',
     platzi: 'https://platzi.com/@estebanrfp/'
