@@ -24,14 +24,11 @@ const estebanrfp = {
   },
   social: {
     github: 'https://github.com/estebanrfp',
+    x: 'https://x.com/estebanrfp',
     linkedin: 'https://es.linkedin.com/in/estebanrfp',
-    twitter: 'https://twitter.com/estebanrfp',
-    facebook: 'https://www.facebook.com/ovgrid/',
     telegram: 'https://telegram.me/estebanrfp'
     discord: 'https://discord.com/channels/665490996003340320/665490996003340329',
-    tetha: 'https://www.theta.tv/estebanrfp',
     lbry: {
-      desarrolloactivo: 'https://lbry.tv/@desarrolloactivo:2',
       estebanrfp: 'https://lbry.tv/@estebanrfp:e',
       ovgrid: 'https://lbry.tv/@ovgrid:d'
     },
