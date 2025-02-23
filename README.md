@@ -13,8 +13,8 @@
 ```javascript
 const estebanrfp = {
   AboutMe: 'Full Stack Developer - dWEB R&D',
-  code: ['Javascript', 'Typescript', 'HTML', 'CSS'],
-  tools: ['GunDB', 'Vite', 'snowpack', 'esbuild', 'GraphQL', 'Jest'],
+  code: ['Javascript, Python'],
+  tools: ['GunDB', 'GraphDB', 'Vite', 'esbuild', 'Jest'],
   trends: ['server-less', 'cryptographic solutions', 'distributed systems'],
   Communities: {
     estebanrfp.com: 'https://estebanrfp.com',
