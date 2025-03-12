@@ -12,28 +12,19 @@
 ```javascript
 const estebanrfp = {
   AboutMe: 'Full Stack Developer - dWEB R&D',
-  code: ['Javascript, Python'],
-  tools: ['GunDB', 'GraphDB', 'Vite', 'esbuild', 'Jest'],
-  trends: ['server-less', 'cryptographic solutions', 'distributed systems'],
+  code: ['Vanilla JavaScript'],
+  tools: ['GraphDB', 'Vite', 'ESBuild', 'Bun'],
+  trends: ['server-less', 'cryptographic and distributed solutions'],
   Communities: {
     estebanrfp.com: 'https://estebanrfp.com',
-    gun: 'https://app.gitter.im/#/room/#amark_gun:gitter.im',
-    gist: 'https://gist.github.com/estebanrfp',
-    platzi: 'https://platzi.com/@estebanrfp/'
+    gitter (GraphDB): 'https://app.gitter.im/#/room/#GDB:gitter.im'
   },
   social: {
     github: 'https://github.com/estebanrfp',
     x: 'https://x.com/estebanrfp',
-    linkedin: 'https://es.linkedin.com/in/estebanrfp',
-    telegram: 'https://telegram.me/estebanrfp'
-    discord: 'https://discord.com/channels/665490996003340320/665490996003340329',
-    lbry: {
-      estebanrfp: 'https://lbry.tv/@estebanrfp:e',
-      ovgrid: 'https://lbry.tv/@ovgrid:d'
-    },
     codepen: 'https://codepen.io/estebanrfp'
   },
-  challenge: 'I am doing Ovgrid [Open Virtual Grid], working on real-time shared xr experiences using gundb - a distributed database.'
+  challenge: 'Working on real-time shared xr experiences using GDB.'
 }
 ```
 
