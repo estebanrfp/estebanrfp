@@ -1,6 +1,5 @@
 <h2> Hi, I'm Esteban Fuster Pozzi </h2>
 
-<img align='right' src="https://avatars0.githubusercontent.com/u/5848848?s=460&u=c20aaa863a51e300e5c120389e113b5862793ecc&v=4" width="230">
 
 <p><em>Full Stack Developer - dWEB R&D</em></p>
 
