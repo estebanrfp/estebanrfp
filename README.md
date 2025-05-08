@@ -22,7 +22,8 @@ const estebanrfp = {
   social: {
     github: 'https://github.com/estebanrfp',
     x: 'https://x.com/estebanrfp',
-    codepen: 'https://codepen.io/estebanrfp'
+    codepen: 'https://codepen.io/estebanrfp',
+    jsfiddle: 'https://jsfiddle.net/u/estebanrfp'
   },
   challenge: 'Working on real-time shared xr experiences using GDB.'
 }
